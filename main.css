@@ -68,6 +68,8 @@ body {
 body, html {
     height: 100%;
     margin: 0;
+    font-weight: bold;
+
 }
 
 .video-container {
