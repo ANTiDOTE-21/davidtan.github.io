@@ -1,12 +1,10 @@
 /* Set black background and white text for all headings */
 h1, h2, h3, h4, h5, h6 {
-    background-color: black;
     color: white;
 }
 
 /* Set black background and white text for paragraphs */
 par {
-    background-color: #000000;
     color: white;
 
 }
@@ -19,13 +17,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.5);
     color: white;
     font: Roboto;
 }
 
 .gif-container {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.6);
     color: white;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
