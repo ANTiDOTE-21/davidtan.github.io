@@ -2,4 +2,4 @@
 Hiya! 
 Welcome to my website repo! 
 
-https://antidote-21.github.io/davidtan.github.io/
+https://david-cedric-tan.github.io/davidtan/
